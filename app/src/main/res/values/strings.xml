@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BuketListApp</string>
+    <string-array name="ranking_array">
+        <item>Select Ranking</item>
+        <item>Top 1</item>
+        <item>Top 2</item>
+        <!-- Add more rankings as needed -->
+    </string-array>
+</resources>

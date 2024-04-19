@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698633841841",
+    "project_id": "finalexam-8f456",
+    "storage_bucket": "finalexam-8f456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698633841841:android:21c0e8066d1ea42cd84690",
+        "android_client_info": {
+          "package_name": "com.example.buketlistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtzBnBS8JFAN2PrlneGASDhbo9iR0GOBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
